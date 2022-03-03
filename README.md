@@ -1,3 +1,9 @@
+# Custom WIP Jira Sub-Task Creator 
+I'm trying to change subtasks naming in this fork, and later creating a comprehensive way to edit subtasbs naming outside of sourcecode
+
+
+
+
 # Jira Sub-Task Creator 
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/acdnmaeifljongleeegkkfnfcopblokj.svg)](https://chrome.google.com/webstore/detail/jira-sub-task-creator/kpkkhaidgijhkojdnfangmdihodjocjm?hl=en&gl=IE)

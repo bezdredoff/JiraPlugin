@@ -1,7 +1,8 @@
 # Custom WIP Jira Sub-Task Creator (updates by Nikolai)
 I'm trying to change subtasks naming in this fork, and later creating a comprehensive way to edit subtasbs naming outside of sourcecode
-March 29, 2022 Update
-Index.html file was modified with new naming and new-subtasks added.
+
+March 29, 2022 
+Update Index.html file was modified with new naming and new-subtasks added.
 Basically this is the only thing, that's required for a minor custom changes.
 
 
